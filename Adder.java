@@ -11,7 +11,7 @@ class Adder {
         System.out.print("Enter b  "); 
              b =sc.nextInt();
         
-        x=a/b; 
+        x=a+b; 
         System.out.print("Sum= "+x);
     }
 }
